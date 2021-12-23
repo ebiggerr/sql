@@ -15,4 +15,4 @@
 
 |Max_Id| Max_Name|
 |---|---|
-|6||
+|6|limit count name: table, proc, fun, ..|
