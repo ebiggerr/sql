@@ -13,5 +13,5 @@ FROM populations AS p1
 ## Result 
 
 |country_code| size2010| size2015|
-|---|---|
+|---|---|---|
 |6|1M|1.5M|
